@@ -8,3 +8,5 @@
     criadoEm: "2026-06-16T12:00:00Z"
 }
 console.log(pessoa.nome)
+console.log(pessoa.email)
+console.log(pessoa.idade)
